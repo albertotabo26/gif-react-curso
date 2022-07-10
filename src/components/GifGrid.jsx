@@ -9,6 +9,7 @@ export const GifGrid = ({ category }) => {
     /*  */
     
 
+    
   return (
     <>
 
